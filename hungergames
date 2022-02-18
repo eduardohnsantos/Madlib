@@ -1,0 +1,31 @@
+def madlib():
+    number = input("Number: ")
+    adj = input("Adjective: ")
+    verb = input("Verb: ")
+    verb2 = input("Verb: ")
+    noun = input("Noun: ")
+    noun2 = input("Noun: ")
+    noun3 = input("Noun: ")
+    noun4 = input("Noun: ")
+    noun5 = input("Noun: ")
+    noun_plural = input("Noun (plural): ")
+    noun_plural_2 = input("Noun (plural): ")
+    noun_plural_3 = input("Noun (plural): ")
+    sound_important = input("Name of something that sounds important: ")
+
+
+    madlib=f"{número} segundos. Esse é o tempo que precisamos {verb} em nossos círculos de metal antes de \
+o som de um {subst.} nos liberta. Saia antes que os {number} segundos acabem e {noun_plural} exploda seu \
+pernas fora. {number} segundos para pegar o anel de tributos todos equidistantes do {sound_important}, um gigante \
+{adj} {noun2} em forma de {noun3} com uma cauda curva, cuja boca tem pelo menos vinte pés \
+alto, transbordando com as coisas que nos darão vida aqui na arena. Alimentos, recipientes de água, \
+{noun_plural_2}, remédios, roupas, {noun_plural_3}. Espalhados ao redor do {sound_important} estão outros suprimentos, seu valor \
+diminuindo quanto mais distantes estiverem do {subst.2}. Por exemplo, a apenas alguns passos dos meus pés fica um \
+quadrado de {subst.4}. Certamente poderia ser de alguma utilidade em um aguaceiro. Mas ali na boca, posso ver um {substantivo5} \
+que protegeria de quase qualquer tipo de clima. Se eu tivesse coragem de entrar e {verb2} para isso contra \
+os outros vinte e três tributos. O que fui instruído a não fazer."
+
+    print(madlib)
+
+if __name__ == '__main__':
+    madlib()
