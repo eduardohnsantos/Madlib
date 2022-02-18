@@ -14,7 +14,7 @@ def madlib():
     sound_important = input("Name of something that sounds important: ")
 
 
-    madlib=f"{número} segundos. Esse é o tempo que precisamos {verb} em nossos círculos de metal antes de \
+    madlib = f"{número} segundos. Esse é o tempo que precisamos {verb} em nossos círculos de metal antes de \
 o som de um {subst.} nos liberta. Saia antes que os {number} segundos acabem e {noun_plural} exploda seu \
 pernas fora. {number} segundos para pegar o anel de tributos todos equidistantes do {sound_important}, um gigante \
 {adj} {noun2} em forma de {noun3} com uma cauda curva, cuja boca tem pelo menos vinte pés \
